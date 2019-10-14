@@ -1,6 +1,6 @@
 # JailbreakMe UI Template
-Currently, this is a fuctional webkit exploit for iOS 10.3.x.
-Users may fork this and create their own JailbreakMe styled exploit in the future with this template.
+Currently, this is a fuctional webkit exploit for iOS 10.3.x.  
+This can be used to create your own JailbreakMe in the future.
 
 ### Credits
 

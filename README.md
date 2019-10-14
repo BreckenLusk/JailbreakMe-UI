@@ -4,7 +4,7 @@ This can be used to create your own JailbreakMe in the future.
 
 ### Credits
 
-- The final ~~countdown~~ product: [Jake Blair](https://twitter.com/JakeBlair420)
-- The entire frontend, website, etc.: [FoxletFox](https://twitter.com/FoxletFox)
-- WebKit exploit: [Niklas Baumstark](https://twitter.com/_niklasb/), with part of [Samuel Groß](https://twitter.com/5aelo/)' code patched in.
-- Everyone credited for the [DoubleH3lix](https://github.com/Siguza/doubleH3lix) and [Meridian](https://github.com/PsychoTea/MeridianJB) jailbreaks.
+- The original ~~countdown~~ product: [Jake Blair](https://twitter.com/JakeBlair420)
+- The entire frontend and original website design: [FoxletFox](https://twitter.com/FoxletFox)
+- The updated design, mimicking iOS 11 and up: [Brecken Lusk] (https://twitter.com/BreckenLusk)
+- WebKit exploit: [Niklas Baumstark](https://twitter.com/_niklasb/)

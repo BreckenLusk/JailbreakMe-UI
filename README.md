@@ -6,5 +6,5 @@ This can be used to create your own JailbreakMe in the future.
 
 - The original ~~countdown~~ product: [Jake Blair](https://twitter.com/JakeBlair420)
 - The entire frontend and original website design: [FoxletFox](https://twitter.com/FoxletFox)
-- The updated design, mimicking iOS 11 and up: [Brecken Lusk] (https://twitter.com/BreckenLusk)
+- The updated design, mimicking iOS 11 and up: [Brecken Lusk](https://twitter.com/BreckenLusk)
 - WebKit exploit: [Niklas Baumstark](https://twitter.com/_niklasb/)
